@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1359560662 source:e:\arrayfileio\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<sstream>
+
+1359562916 source:d:\g\files\coe\second sem\arrayfileio\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<sstream>
+
